@@ -1,0 +1,6 @@
+D:\Филипченко\OOPDemo\Polymorphic\bin\Debug\Polymorphic.exe.config
+D:\Филипченко\OOPDemo\Polymorphic\bin\Debug\Polymorphic.exe
+D:\Филипченко\OOPDemo\Polymorphic\bin\Debug\Polymorphic.pdb
+D:\Филипченко\OOPDemo\Polymorphic\obj\Debug\Polymorphic.csprojResolveAssemblyReference.cache
+D:\Филипченко\OOPDemo\Polymorphic\obj\Debug\Polymorphic.exe
+D:\Филипченко\OOPDemo\Polymorphic\obj\Debug\Polymorphic.pdb

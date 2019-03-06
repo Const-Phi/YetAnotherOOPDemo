@@ -1,0 +1,6 @@
+D:\Филипченко\OOPDemo\Incapsulation\bin\Debug\Incapsulation.exe.config
+D:\Филипченко\OOPDemo\Incapsulation\bin\Debug\Incapsulation.exe
+D:\Филипченко\OOPDemo\Incapsulation\bin\Debug\Incapsulation.pdb
+D:\Филипченко\OOPDemo\Incapsulation\obj\Debug\Incapsulation.csprojResolveAssemblyReference.cache
+D:\Филипченко\OOPDemo\Incapsulation\obj\Debug\Incapsulation.exe
+D:\Филипченко\OOPDemo\Incapsulation\obj\Debug\Incapsulation.pdb

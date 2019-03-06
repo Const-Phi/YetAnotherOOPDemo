@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Incapsulation", "Incapsulation\Incapsulation.csproj", "{49440637-4F67-4326-925D-12BF38F2273C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphic", "Polymorphic\Polymorphic.csproj", "{1F780641-77AB-401F-961D-61A14A5AEE50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49440637-4F67-4326-925D-12BF38F2273C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49440637-4F67-4326-925D-12BF38F2273C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49440637-4F67-4326-925D-12BF38F2273C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49440637-4F67-4326-925D-12BF38F2273C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F780641-77AB-401F-961D-61A14A5AEE50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F780641-77AB-401F-961D-61A14A5AEE50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F780641-77AB-401F-961D-61A14A5AEE50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F780641-77AB-401F-961D-61A14A5AEE50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
